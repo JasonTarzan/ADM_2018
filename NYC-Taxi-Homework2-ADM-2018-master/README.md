@@ -1,4 +1,11 @@
 # NYC-Taxi-Homework2-ADM-2018
+
+
+### Group Members:
+ * Atefeh Moradan
+ * Daniele Sanna
+ * Iason Tsardanidis
+
 The following scripts allows to analyze different aspects of the dataset belonging to the new york taxis; specifically, we will answer 5 **research questions(RQ)**:
 
 * 1)In what period of the year Taxis are used more?
