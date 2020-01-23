@@ -1,5 +1,5 @@
 # ADM_2018
-[Algorithmic Methods for Data Mining 2018 - Sapienza University](http://aris.me/index.php/data-mining-ds-2018)
+[Algorithmic Methods for Data Mining - Sapienza University](http://datascience.i3s.uniroma1.it/it/node/5597)
 
 This file contains:
 
